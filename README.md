@@ -42,7 +42,7 @@ qa-starter-kit/
 git clone https://github.com/TestDevToolsGit/qa-starter-kit-TS-playwright.git
 
 # 2. Enter the project directory
-cd qa-starter-kit-playwright
+cd qa-starter-kit-TS-playwright
 
 # 3. Install dependencies
 npm install
