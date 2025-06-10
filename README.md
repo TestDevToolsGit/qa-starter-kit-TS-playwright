@@ -39,7 +39,7 @@ qa-starter-kit/
 ## ⚙️ Setup & Usage
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/qa-starter-kit-playwright.git
+git clone https://github.com/TestDevToolsGit/qa-starter-kit-TS-playwright.git
 
 # 2. Enter the project directory
 cd qa-starter-kit-playwright
