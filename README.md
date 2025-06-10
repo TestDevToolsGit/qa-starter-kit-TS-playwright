@@ -29,9 +29,12 @@ Perfect for:
 qa-starter-kit/
 ├── tests/
 │   └── apple.spec.ts
-├── playwright.config.ts
 ├── .gitignore
 ├── README.md
+├── package.json
+├── playwright.config.ts
+├── tsconfig.json
+
 ```
 
 ---
