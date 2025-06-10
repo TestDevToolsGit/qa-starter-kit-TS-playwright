@@ -24,7 +24,7 @@ Perfect for:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 ```text
 qa-starter-kit/
 ├── tests/
