@@ -1,0 +1,27 @@
+{
+  "name": "qa-starter-kit-playwright",
+  "version": "1.0.0",
+  "description": "Minimal Playwright test suite targeting apple.com for E2E testing and QA demo purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report",
+    "install:browsers": "npx playwright install"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "typescript": "^5.5.3"
+  },
+  "keywords": [
+    "playwright",
+    "e2e",
+    "qa",
+    "automation",
+    "apple.com",
+    "starter-kit"
+  ],
+  "author": "TestDevTools",
+  "license": "MIT",
+  "private": true
+}
