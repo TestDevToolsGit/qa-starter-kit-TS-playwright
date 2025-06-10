@@ -1,4 +1,4 @@
-# 🧪 QA Starter Kit – Playwright E2E Tests for Apple.com
+# 🧪 QA Starter Kit – Playwright E2E Tests
 
 This is a minimal, real-world Playwright test suite that runs automated end-to-end tests against [apple.com](https://apple.com).
 
@@ -9,18 +9,18 @@ Perfect for:
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ Runs tests directly against [https://apple.com](https://apple.com)  
-✅ Uses [Playwright](https://playwright.dev) with TypeScript  
-✅ Validates navigation, links, and content  
-✅ Supports HTML reports, video, screenshots, and trace on failure  
-✅ Ready to fork, clone, and extend
+- Runs tests directly against [https://apple.com](https://apple.com)  
+- Uses [Playwright](https://playwright.dev) with TypeScript  
+- Validates navigation, links, and content  
+- Supports HTML reports, video, screenshots, and trace on failure  
+- Ready to fork, clone, and extend
 
 ---
 
-## 🧪 Included Tests
-✅ Apple homepage loads and shows Mac link
+## Included Tests
+- Apple homepage loads and shows Mac link
 
 ---
 
@@ -39,7 +39,7 @@ qa-starter-kit/
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 ```bash
 # 1. Clone the repo
 git clone https://github.com/TestDevToolsGit/qa-starter-kit-TS-playwright.git
